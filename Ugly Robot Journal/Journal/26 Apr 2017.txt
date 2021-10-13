@@ -1,0 +1,3 @@
+Day two, take #3 on writing this... Hard balance on being aggresive with trimming unneccicary data from these files, and then accedentally deleteing too much. Too bad I don't feel like writing down my deleted thoughts again lol! Lost to the sands of time, or now, the CPU ticks of time.
+
+Still much to do, with this program (moving curser index in text) and much to do in life (finishing up spring semester 2017). Im off to do those things!

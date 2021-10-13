@@ -1,0 +1,1 @@
+Hello! So, this is the first version of my journal. Currently I am typing this on my mac, but this is intended (eventually) for my immitation 70's comuter that I am trying to make from a rasberry pi zero and a goodwill crt. We will see.

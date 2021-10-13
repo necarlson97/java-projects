@@ -1,0 +1,7 @@
+Alll righty, one again, another 3am programming session. I think I got the ability to scoll through the text! Yay!
+
+Brooke found an old journal of hers from july 3rd, 2016, and it continues sporatically throughout the summer. I haven't read much (she let me!) but so far its great stuff. Emotional, crazy, deep thoughts. Kind of what I hope this can be! We will see, of course. 
+
+Ah I can't wait to be done with finals. Its just a huge emotional drag having that weight. Not to bitch (I mean, where else can I bitch if not to my own journal) but it sorta feels like a gremlin who jabs the back of your brain anytime you try to have fun... Know what I mean? You know what I mean. You are probibly me!
+
+Ok, well this is comming along nicly as a project, a few lovley late nights spend with code and now I have a functioning... Thing! Lets go make the loading ui prettier!

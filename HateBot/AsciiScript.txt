@@ -1,0 +1,61 @@
+Ascii Skull
+                                              
+              `omMMMMMMMMMMMy-                
+             /NNNMMMMMMMMMMMMMo               
+            :Md/MMMMMMMMMMMMMMM:              
+            +M-NMMMMMMMMMMMMMMMo              
+            +msMh-.:dMMh:.:hMdM+              
+            .hsN    oMMo   `M:m.              
+             +mM+:/hM+yMh/:sMs:               
+             sNMMMMMh.-MMMMMMNo               
+               -/hMMMMMMMMm+.                 
+    -//`       sd-:yhyyyh//m-                 
+ `:dMMMN:      /Mh ::-:--`MM.       /NMNs     
+oMMMMMMMMh-    `dMo///-+-hMy      -hMMMMMd+`  
+mMMMdhhmMMMmo:   oNMMMMMMm/    -omMMMMMmMMMm  
+ -/+oydmmMMMMMMho-`-::::- `:ohNMMMMmdddNMNms  
+        `:+ymMMMMMNy/` :sdMMMMMMNdyo/:.`      
+             `:ohNMMMMdhhdMmyo:`              
+             `-ohmdhdMMMMNh+.                 
+.+ooooooooshmMMMMMmy/`:smMMMMmy+:.`           
+NMMdMMMMMMMMMNho:`       ./ymMMNNMMMMMNmdh:   
+.+hMNsmNMMdo-                `:ymddMMMMmNMh   
+   oNmdho.                      `omdhdMh:.    
+                                               
+
+Ascii Bolt
+
+                                       `ss:`      
+                                      +NMMMMd+.   
+                                    .hMMMMMMMMMd- 
+                                   oNMMMMMMMMNs-  
+                                 -dMMMMMMMMmo`    
+                               `sNMMMMMMMh/`      
+                              :mMMMMMMNy-`        
+                            `sNMMMMMmo.           
+                           /mMMMMMd+`             
+                         .yMMMMNy:`               
+                        +mMMMMd+//+osyho.         
+                      -hMMMMMMNMMMMMMd:`          
+                    `oNMMMMMMMMMMMMd/`            
+                   -hNNmdNMMMMMMMm/`              
+                  `---.-yMMMMMMm+`                
+                      -dMMMMMmo.                  
+                    `oNMMMMNs.                    
+                   -hMMMMNs.                      
+                 `+NMMMNy-                        
+                -hMMMNy-``..-`                    
+              `+NMMMMdyhddmh/`                    
+             .hMMMMMMMMMNh/`                      
+           `/NMMMMMMMMNh:                         
+          `ohysyMMMMNh:                           
+             `+NMMNy-                             
+            .hMMNy-                               
+          `+NMNs.                                 
+         -dMNo.                                   
+       `oNNo.                                     
+      :dmo`                                       
+    `sm+`                                         
+   :h/`                                           
+ `+/                                              
+`-                                                
